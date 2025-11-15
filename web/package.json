@@ -16,8 +16,8 @@
     "lint:stylelint:fix": "stylelint --fix assets/css/*scss"
   },
   "devDependencies": {
-    "esbuild": "^0.19.7",
-    "esbuild-sass-plugin": "^2.16.0",
+    "esbuild": "^0.27.0",
+    "esbuild-sass-plugin": "^3.3.1",
     "@primer/stylelint-config": "^12.8.0",
     "eslint": "^8.45.0",
     "eslint-plugin-sonarjs": "^0.19.0",
